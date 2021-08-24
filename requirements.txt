@@ -1,7 +1,8 @@
 streamlit==0.87.0
 pandas==1.0.5
 numpy==1.18.5
-numpy-base==1.18.5
-numpydoc==1.1.0
 scikit-learn==0.23.1
 tzlocal==1.5.1
+
+
+
