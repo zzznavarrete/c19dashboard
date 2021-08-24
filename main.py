@@ -55,7 +55,7 @@ st.write(""" ## `""" + str(df.index[len(df.index) - 1])[0:10] + """ ` """)
 #col2.metric("Fallecidos recuperados al día: ", "9 mph", "-8%")
 
 import locale
-locale.setlocale(locale.LC_ALL,'en_US.UTF-8')
+locale.setlocale(locale.LC_ALL, 'es_ES')
 
 
 
